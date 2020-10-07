@@ -79,3 +79,4 @@ public class CollectionsMethod {
 
 
 }
+// gereksiz ekleme sil
