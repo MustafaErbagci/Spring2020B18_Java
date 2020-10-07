@@ -2,7 +2,7 @@ package day04_JavaRecap;
 
 public class ArithmeticOperators {
 
-
+////sil
     public static void main(String[] args) {
         // 10 /3 ==> 3.33333
         int a = 10 / 3 ; //3
